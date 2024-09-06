@@ -29,5 +29,4 @@ A full-featured blog application built with React, Node.js, and MySQL. This app 
   - **JWT Authentication**: Secure user login and access.
   - **MySQL Integration**: Interact with the MySQL database.
 
-## Project Structure
 
